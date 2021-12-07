@@ -1,3 +1,5 @@
+//Uses bottom albedo-independent Bathymetry algorithm modified by Li et al. (2021) and origionally developed by Stumpf and Holderied (2003)
+
 //_______________________________
 //          PARAMETERS
 //_______________________________
