@@ -4,7 +4,7 @@ Script used to calculate shallow water bathymetry with Landsat imagery in Google
 Automatically switched between Landsat satellite based on date range. 
 Requires batch export function in GEETools library developed by Rodrigo E. Principe.
 
-Uses bottom albedo-independent Bathymetry algorithm modified by Li et al. (2021) and origionally developed by Stumpf and Holderied (2003).
+Uses bottom albedo-independent Bathymetry algorithm modified by Li et al. (2021) and originally developed by Stumpf and Holderied (2003).
 
 WARNING
 
