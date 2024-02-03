@@ -11,6 +11,4 @@ WARNING
 The results of this tool have not been validated and may be incorrect!
 You must understand how to produce a correct bathymetry estimation equation for this to produce meaningful results.
 
-TODO
-
-Finish description, commenting and attributions.
+This function does not use any coefficients to standardize the images between satellite sensors.
